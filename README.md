@@ -1,5 +1,8 @@
 # Cplusplus_KeyWords
-這邊只提特殊的關鍵字
+
+這邊只提特殊的 25 個關鍵字
+
+其說明...尚未完成(To Be Done!)。
 
 alignas
 
